@@ -8,8 +8,8 @@ Projeyi kullanmaya başlamak için GitHub’dan klonlayın ve yerel makinenizde 
 Kurulum süreci oldukça basit:
 
 Visual Studio’yu açın.
-winplayer.sln dosyasını açın.
-‘F5’ tuşuna basarak projeyi çalıştırın.
+`winplayer.sln` dosyasını açın.
+`‘F5’` tuşuna basarak projeyi çalıştırın.
 Ve işte! Bilgisayarınızın şarj durumunu kontrol etmeye ve uygulamalarınızı yönetmeye başlayabilirsiniz! 🎉
 
 # 📝 Nasıl Kullanılır
@@ -19,6 +19,5 @@ Uygulamayı açın.
 Kontrol etmek istediğiniz uygulamaları listeye ekleyin.
 Gerisini uygulamaya bırak
 
-Windows Forms
 # 🤝 Destek
 Herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçmekten çekinmeyin. Yardım etmek için buradayım! Discord herzane
