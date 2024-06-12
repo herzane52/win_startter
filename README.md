@@ -1,11 +1,8 @@
-💻🔋 Şarj Kontrol Uygulaması
-Bu harika küçük projemiz, bilgisayarınızın şarjda olup olmadığını kontrol eden ve buna göre belirli uygulamaları kapatan ya da açan bir C# form uygulamasıdır. 🌟🔌
+# 💻🔋 Şarj Kontrol Uygulaması winstarter
+Bu harika küçük projem, bilgisayarınızın şarjda olup olmadığını kontrol eden ve buna göre belirli uygulamaları kapatan ya da açan bir C# form uygulamasıdır. 🌟🔌
 
-🎀 Başlarken
+# 🎀 Başlarken
 Projeyi kullanmaya başlamak için GitHub’dan klonlayın ve yerel makinenizde çalıştırın. İşte adımlar:
-
-git clone https://github.com/senin-github-kullanici-adin/sarj-kontrol-uygulamasi.git
-cd sarj-kontrol-uygulamasi
 
 # ⚙️ Kurulum
 Kurulum süreci oldukça basit:
