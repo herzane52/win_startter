@@ -1,0 +1,9 @@
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.FormAbout.resources
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\tgere\Desktop\github yüklenenler\App\C#\test\WinFormsApp1\obj\Release\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
